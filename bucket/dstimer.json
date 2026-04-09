@@ -14,7 +14,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://github.com/madLinux7/dstimer/releases/download/v$version/dstimer-windows-x86_64.exe#/dstimer.exe"
+        "url": "https://github.com/madLinux7/dstimer/releases/download/v$version/dstimer.exe"
       }
     }
   }
